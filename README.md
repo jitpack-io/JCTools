@@ -33,7 +33,7 @@ Add as a dependency using Maven:
 	<dependency>
 	    <groupId>com.github.JCTools</groupId>
 	    <artifactId>JCTools</artifactId>
-	    <version>RELEASE</version>
+	    <version>1.0</version>
 	</dependency>
 ```
 
